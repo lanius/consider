@@ -33,6 +33,7 @@ Create Consider object, and you can get a ThinkGear packet::
 
 You can get a packet generator for streaming::
 
+    >>> from itertools import islice
     >>> for p in islice(con.packet_generator(), 10):
     ...     # get 10 packets
     ...     print(p.meditation, p.high_alpha, p.low_alpha)
