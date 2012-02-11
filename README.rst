@@ -1,7 +1,3 @@
-﻿========
-Consider
-========
-
 What is this?
 =============
 Consider is a parser for the ThinkGear protocol used by NeuroSky devices (MindSet, BrainBand and others).
