@@ -11,7 +11,7 @@ Getting started
 ===============
 Consider can be installed with pip or easy_install from github::
 
-    pip install https://github.com/lanius/consider/zipball/master
+    pip install consider
 
 Firstly, start ThinkGear Connector. In the case of Windows, execute "ThinkGear Connector.exe" that is included in SDK, specify a COM port and push "Start" button.
 
