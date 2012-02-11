@@ -9,7 +9,7 @@ See also thinkgear (https://github.com/groner/pythinkgear) that parses it more d
 
 Getting started
 ===============
-Consider can be installed with pip or easy_install from github::
+Consider can be installed with pip or easy_install::
 
     pip install consider
 
