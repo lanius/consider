@@ -11,7 +11,7 @@ used by NeuroSky devices."""
 
 setup(
     name='consider',
-    version='0.1',
+    version='0.1.1',
     url='https://github.com/lanius/consider/',
     license='MIT',
     author='lanius',
